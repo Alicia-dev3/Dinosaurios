@@ -34,8 +34,8 @@
 
 		
 
-			<td><a href = 'trex.html'><img src = '../figuras/trex.png' alt = 'trex' ><figcaption>T-Rex</figcaption></a></td> 
-		<td><a href = 'trex.html'><img src = '../figuras/trex.png' alt = 'mosasaurus' ><figcaption>Mosasarurus</figcaption></a></td> 
+			<td><a href = 'trex.html'><img src = '../figuras/trex.jpg' alt = 'trex' ><figcaption>T-Rex</figcaption></a></td> 
+		<td><a href = 'mosasaurus.html'><img src = '../figuras/mosasaurus.jpg' alt = 'mosasaurus' ><figcaption>Mosasarurus</figcaption></a></td> 
 		<td><a href = 'e750.html'><img src = '../figuras/e750.png' alt = 'e750' ><figcaption>Scorpius Rex</figcaption></a></td>
 				
 		</tr>
