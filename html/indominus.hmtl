@@ -27,7 +27,7 @@
 		
 
 		<td><a href = '../index.html'><img src = '../figuras/origen.png' alt = 'Indice' ><figcaption>Indice</figcaption></a></td> 
-		<td><a href = 'blue.html'><img src = '../figuras/azul.png' alt = 'Blue' ><figcaption>Blue</figcaption></a></td> 
+		<td><a href = 'blue.html'><img src = '../figuras/blue.png' alt = 'Blue' ><figcaption>Blue</figcaption></a></td> 
 		<td><a href = 'indoraptor.html'><img src = '../figuras/indoraptor.png' alt = 'indoraptor' ><figcaption>indoraptor</figcaption></a></td> 
 	
 		</tr>
